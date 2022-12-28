@@ -1,0 +1,26 @@
+﻿Build started 12/28/2022 8:57:20 PM.
+     1>Project "C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\multi texturing\multi texturing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual C++ Compiler Nov 2013 CTP\bin\CL.exe /c /I"C:\Users\Sedra\Documents\Visual Studio 2013\Projects\multi texturing\multi texturing\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "008-textures-pt2-multitexturing.cpp" common_classes\staticGeometry.cpp
+         staticGeometry.cpp
+         008-textures-pt2-multitexturing.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual C++ Compiler Nov 2013 CTP\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\Debug\multi texturing.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib freeglut.lib glew32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\Debug\multi texturing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\Debug\multi texturing.lib" /MACHINE:X86 "Debug\008-textures-pt2-multitexturing.obj"
+         Debug\flyingCamera.obj
+         Debug\OpenGLWindow.obj
+         Debug\sampler.obj
+         Debug\shader.obj
+         Debug\shaderProgram.obj
+         Debug\staticGeometry.obj
+         Debug\texture.obj
+         Debug\uniform.obj
+         Debug\vertexBufferObject.obj
+         Debug\glad.obj
+         Debug\main.obj
+         multi texturing.vcxproj -> C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\Debug\multi texturing.exe
+     1>Done Building Project "C:\Users\Sedra\documents\visual studio 2013\Projects\multi texturing\multi texturing\multi texturing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.09
